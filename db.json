@@ -1,0 +1,277 @@
+{
+  "allUsersBookingDetails": [
+    {
+      "passenger_name": "hhh",
+      "email": "raj@gmail.com",
+      "mobile_number": "+91 7084422881",
+      "car_make": "TATA",
+      "car_model": "NEXON",
+      "reg_number": "KL03MF4477",
+      "driver_name": "Abraham",
+      "service_type": "Airport Transfer",
+      "pickup_date": "2024-01-01T09:11:21.549Z",
+      "pickup_location": "Palarivattom",
+      "dropoff_location": "Kaloor",
+      "id": 1
+    },
+    {
+      "passenger_name": "rrr",
+      "email": "sunny@gmail.com",
+      "mobile_number": "+91 7086213307",
+      "car_make": "MAHINDRA",
+      "car_model": "SCORPIO",
+      "reg_number": "KL11AK2345",
+      "driver_name": "Hari",
+      "service_type": "City Transfer",
+      "pickup_date": "2024-02-02T09:29:22.000Z",
+      "pickup_location": "Edapally",
+      "dropoff_location": "Vyttila",
+      "id": 2
+    },
+    {
+      "passenger_name": "rrr",
+      "email": "priya@yahoo.com",
+      "mobile_number": "+91 7086465729",
+      "car_make": "TOYOTA",
+      "car_model": "INNOVA",
+      "reg_number": "KL08AB7477",
+      "driver_name": "Adam",
+      "service_type": "Hourly Booking",
+      "pickup_date": "2024-03-03T09:29:22.000Z",
+      "pickup_location": "Edapally",
+      "dropoff_location": "Vyttila",
+      "id": 3
+    },
+    {
+      "passenger_name": "rrr",
+      "email": "varun@yahoo.com",
+      "mobile_number": "+91 7084455881",
+      "car_make": "MARUTI",
+      "car_model": "FRONX",
+      "reg_number": "KL06BE5677",
+      "driver_name": "Manu",
+      "service_type": "Corporate Transport",
+      "pickup_date": "2024-04-04T09:29:22.000Z",
+      "pickup_location": "Edapally",
+      "dropoff_location": "Vyttila",
+      "id": 4
+    }
+  ],
+  "allDrivers": [
+    {
+      "id": 1,
+      "DriverName": "John",
+      "DriverLicense": "12345",
+      "DriverRating": 4,
+      "Experience": "2 Years",
+      "About": "Experienced driver with 10 years on the road. Fluent in English and Malayalam. Committed to safety and a pleasant ride.",
+      "Profile": "./drivers/1.jpg"
+    },
+    {
+      "id": 2,
+      "DriverName": "Abraham",
+      "DriverLicense": "23456",
+      "DriverRating": 3,
+      "Experience": "4 Years",
+      "About": "Experienced driver with 4 years behind the wheel. Dedicated to making every ride smooth and stress-free.",
+      "Profile": "./drivers/2.jpg"
+    },
+    {
+      "id": 3,
+      "DriverName": "Manu",
+      "DriverLicense": "34567",
+      "DriverRating": 4,
+      "Experience": "1 Years",
+      "About": "Reliable driver with a decade of experience. Known for providing safe, timely, and comfortable journeys.",
+      "Profile": "./drivers/3.jpg"
+    },
+    {
+      "id": 4,
+      "DriverName": "Hari",
+      "DriverLicense": "45678",
+      "DriverRating": 5,
+      "Experience": "8 Years",
+      "About": "With 8 years of driving, I ensure a smooth ride and prioritize passenger comfort and safety.",
+      "Profile": "./drivers/4.jpg"
+    },
+    {
+      "id": 5,
+      "DriverName": "Adam",
+      "DriverLicense": "56789",
+      "DriverRating": 3,
+      "Experience": "2 Years",
+      "About": "Seasoned driver with a commitment to exceptional service. I focus on creating a pleasant and reliable ride.",
+      "Profile": "./drivers/5.jpg"
+    },
+    {
+      "id": 6,
+      "DriverName": "Johny",
+      "DriverLicense": "67890",
+      "DriverRating": 4,
+      "Experience": "3 Years",
+      "About": "Professional driver with a focus on punctuality and customer satisfaction. Making every journey enjoyable and secure.",
+      "Profile": "./drivers/6.jpg"
+    },
+    {
+      "id": 7,
+      "DriverName": "Rahul",
+      "DriverLicense": "78901",
+      "DriverRating": 5,
+      "Experience": "6 Years",
+      "About": "Skilled driver with years of experience. Committed to providing a safe, timely, and comfortable ride.",
+      "Profile": "./drivers/7.jpg"
+    },
+    {
+      "id": 8,
+      "DriverName": "Aiswarya",
+      "DriverLicense": "89012",
+      "DriverRating": 4,
+      "Experience": "3 Years",
+      "About": "Trusted driver who values safety and comfort. Dedicated to ensuring a reliable and pleasant travel experience.",
+      "Profile": "./drivers/8.jpg"
+    },
+    {
+      "id": 9,
+      "DriverName": "Lakshmi",
+      "DriverLicense": "90123",
+      "DriverRating": 3,
+      "Experience": "2 Years",
+      "About": "Skilled female driver with a decade of experience. Prioritizes passenger comfort and safety, ensuring a smooth travel experience",
+      "Profile": "./drivers/9.jpg"
+    }
+  ],
+  "defaultBookingDetails": [
+    {
+      "passenger_name": "hhh",
+      "email": "raj@gmail.com",
+      "mobile_number": "+91 7084422881",
+      "car_make": "TATA",
+      "car_model": "NEXON",
+      "reg_number": "KL03MF4477",
+      "driver_name": "Abraham",
+      "service_type": "Airport Transfer",
+      "pickup_date": "2024-01-01T09:11:21.549Z",
+      "pickup_location": "Palarivattom",
+      "dropoff_location": "Kaloor",
+      "id": 1
+    },
+    {
+      "passenger_name": "rrr",
+      "email": "sunny@gmail.com",
+      "mobile_number": "+91 7086213307",
+      "car_make": "MAHINDRA",
+      "car_model": "SCORPIO",
+      "reg_number": "KL11AK2345",
+      "driver_name": "Hari",
+      "service_type": "City Transfer",
+      "pickup_date": "2024-02-02T09:29:22.000Z",
+      "pickup_location": "Edapally",
+      "dropoff_location": "Vyttila",
+      "id": 2
+    },
+    {
+      "passenger_name": "rrr",
+      "email": "priya@yahoo.com",
+      "mobile_number": "+91 7086465729",
+      "car_make": "TOYOTA",
+      "car_model": "INNOVA",
+      "reg_number": "KL08AB7477",
+      "driver_name": "Adam",
+      "service_type": "Hourly Booking",
+      "pickup_date": "2024-03-03T09:29:22.000Z",
+      "pickup_location": "Edapally",
+      "dropoff_location": "Vyttila",
+      "id": 3
+    },
+    {
+      "passenger_name": "rrr",
+      "email": "varun@yahoo.com",
+      "mobile_number": "+91 7084455881",
+      "car_make": "MARUTI",
+      "car_model": "FRONX",
+      "reg_number": "KL06BE5677",
+      "driver_name": "Manu",
+      "service_type": "Corporate Transport",
+      "pickup_date": "2024-04-04T09:29:22.000Z",
+      "pickup_location": "Edapally",
+      "dropoff_location": "Vyttila",
+      "id": 4
+    },
+    {
+      "passenger_name": "rrr",
+      "email": "shilpa@gmail.com",
+      "mobile_number": "+91 7087755881",
+      "car_make": "TATA",
+      "car_model": "HARRIER",
+      "reg_number": "KL03CE9876",
+      "driver_name": "Rahul",
+      "service_type": "Hourly Booking",
+      "pickup_date": "2024-05-05T09:29:22.000Z",
+      "pickup_location": "Edapally",
+      "dropoff_location": "Vyttila",
+      "id": 5
+    }
+  ],
+  "Allplaces": [
+    {
+      "id": 1,
+      "name": "Aluva",
+      "longitude": 76.350693,
+      "latitude": 10.107796
+    },
+    {
+      "id": 2,
+      "name": "Kakkanad",
+      "longitude": 76.3418586,
+      "latitude": 10.0158685
+    },
+    {
+      "id": 3,
+      "name": "Edapally",
+      "longitude": 76.311371,
+      "latitude": 10.023286
+    },
+    {
+      "id": 4,
+      "name": "Palarivattom",
+      "longitude": 76.311935,
+      "latitude": 9.99848
+    },
+    {
+      "id": 5,
+      "name": "Kaloor",
+      "longitude": 76.2971403,
+      "latitude": 9.9985042
+    },
+    {
+      "id": 6,
+      "name": "Perumbavoor",
+      "longitude": 76.4778099,
+      "latitude": 10.1147475
+    },
+    {
+      "id": 7,
+      "name": "Vyttila",
+      "longitude": 76.3148303948103,
+      "latitude": 9.96812875335715
+    },
+    {
+      "id": 8,
+      "name": "Thrissur",
+      "longitude": 76.214729,
+      "latitude": 10.530345
+    },
+    {
+      "id": 9,
+      "name": "Angamaly",
+      "longitude": 76.386977,
+      "latitude": 10.192642
+    },
+    {
+      "id": 10,
+      "name": "Muvattupuzha",
+      "longitude": 76.580306,
+      "latitude": 9.979882
+    }
+  ]
+}
